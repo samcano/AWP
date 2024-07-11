@@ -1,4 +1,4 @@
-# sam sam
+# LeaveOFF - 12:57 - https://www.youtube.com/watch?v=yMJ_VU3jt7c&ab_channel=AlfonsoGonzalez-Astrodynamics%26SEPodcast
 
 # AWP - Astrodynamics with Python
 
