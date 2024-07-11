@@ -9,6 +9,8 @@ Two-body propagation with J2 perturbation for 100 periods
 
 # Python standard libraries
 # AWP libraries
+import sys
+sys.path.append('/Users/onacs/Code/AWP/src/python_tools/')
 from Spacecraft import Spacecraft as SC
 from planetary_data import earth
 
