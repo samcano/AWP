@@ -20,7 +20,7 @@ if __name__ == '__main__':
 			{
 			'coes'       : coes,
 			'tspan'      : '100', 
-			'dt'         : 100.0,
+			'dt'         : 10.0,
 			'orbit_perts': { 'J2': True }
 			} )
 	sc.plot_3d()
